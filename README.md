@@ -3,8 +3,10 @@
 ## Paso 1:
 Ir al botón de "Use this template" -> "Create a new repository"
 
-Llenar los campos
+## Paso 2:
+Llenar los campos que me pide.. en realidad es un nombre para mi nuevo repo que es copia de la plantilla.
 
+## Paso 3:
 Ir a Settings -> Pages -> Build and deployment -> Source -> GitHub Actions
 
 En el archivo "_quarto.yml" encontrarás una parte que se ve así
