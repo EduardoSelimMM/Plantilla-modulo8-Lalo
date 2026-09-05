@@ -23,6 +23,6 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: superhero # Este el nuevo tema que me gustó
     toc: true
     lang: es
