@@ -9,6 +9,7 @@ Llenar los campos que me pide.. en realidad es un nombre para mi nuevo repo que 
 ## Paso 3:
 Ir a Settings -> Pages -> Build and deployment -> Source -> GitHub Actions
 
+## Paso 4:
 En el archivo "_quarto.yml" encontrarás una parte que se ve así
 
 ```
